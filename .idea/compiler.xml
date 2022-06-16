@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="CompilerConfiguration">
+    <bytecodeTargetLevel target="17">
+      <module name="Pawns-Only_Chess1.Pawns-Only_Chess-task-build-classes-kotlin.main" target="11" />
+      <module name="Pawns-Only_Chess1.Pawns-Only_Chess-task-build-reports-tests.main" target="11" />
+      <module name="Pawns-Only_Chess1.Pawns-Only_Chess-task-build-test-results.main" target="11" />
+      <module name="Pawns-Only_Chess1.Pawns-Only_Chess-task-build-tmp.main" target="11" />
+      <module name="Pawns-Only_Chess1.Pawns-Only_Chess-task.main" target="11" />
+      <module name="Pawns-Only_Chess1.Topics-The_Math_library-Compare_the_results.main" target="11" />
+      <module name="Pawns-Only_Chess1.Topics-The_Math_library-Existing_functions.main" target="11" />
+      <module name="Pawns-Only_Chess1.Topics-The_Math_library-Fourth_root.main" target="11" />
+      <module name="Pawns-Only_Chess1.Topics-The_Math_library-Heron's_formula.main" target="11" />
+      <module name="Pawns-Only_Chess1.Topics-The_Math_library-Max_of_four_numbers.main" target="11" />
+      <module name="Pawns-Only_Chess1.Topics-The_Math_library-National_assembly.main" target="11" />
+      <module name="Pawns-Only_Chess1.Topics-The_Math_library-Pow.main" target="11" />
+      <module name="Pawns-Only_Chess1.Topics-The_Math_library-Quadratic_equation.main" target="11" />
+      <module name="Pawns-Only_Chess1.Topics-The_Math_library-Sine_and_cosine.main" target="11" />
+      <module name="Pawns-Only_Chess1.Topics-The_Math_library-Theory.main" target="11" />
+      <module name="Pawns-Only_Chess1.util.main" target="11" />
+    </bytecodeTargetLevel>
+  </component>
+</project>
